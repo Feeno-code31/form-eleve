@@ -87,7 +87,8 @@ body {
 /* RESPONSIVE */
 @media (max-width: 768px) {
     .login {
-        width: 85%;
+        width: 90%;
         padding: 30px;
     }
 }
+
